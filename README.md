@@ -1,5 +1,3 @@
-# nodejs_express_mongoose
+# Assignment 1
 
-# Assignment!
-
-# 101124255 Jonathan Seltzer
+-101124255 Jonathan Seltzer
